@@ -1,20 +1,7 @@
-Pokemon Demo
+## Pokemon Demo
 
-Welcome to the Pokemon Demo project! This is a React Native application that leverages the Pokemon API to display a list of Pokemon and their details.
-
-Table of Contents
-
-Features
-Getting Started
-Prerequisites
-Installation
-Running the App
-Folder Structure
-Testing
-Technologies Used
-Contributing
-License
-Features
+Welcome to the Pokemon Demo project!\
+This is a React Native application that leverages the Pokemon API to display a list of Pokemon and their details.
 
 Display a list of Pokemon with their names.
 Navigate to a Pokemon's details page.
@@ -25,16 +12,14 @@ View detailed information about each Pokemon, including height, weight, and imag
 Prerequisites
 Make sure you have the following installed on your machine:
 
-```Node.js
-npm (Node Package Manager)
-React Native CLI
+npm (Node Package Manager)\
+React Native CLI\
 Android Studio or Xcode (for Android and iOS development)
-```
+
 
 ## Installation
 Clone the repository:
 
-Copy code\
 git [clone](https://github.com/Ajaymishra123/PokemonApp.git)
  
 ```bash
@@ -72,7 +57,7 @@ For Code Coverage : npm run test:coverage
 ## Technologies Used
 React Native\
 React Navigation\
-Jest (for testing)\
+Jest (for testing)
 
 
 License
